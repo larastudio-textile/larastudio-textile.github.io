@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://larastudio-textile.github.io/sitemap.xml
