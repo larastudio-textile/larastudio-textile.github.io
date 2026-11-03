@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-11-03 21:16">
+  <shop>
+    <name>Lara Studio | Дизайнерский текстиль</name>
+    <company>Lara Studio</company>
+    <url>https://larastudio-textile.github.io/</url>
+    <currencies><currency id="RUR" rate="1"/></currencies>
+    <categories>
+      <category id="1">Авторские квилты</category>
+      <category id="4">Столовый текстиль</category>
+      <category id="5">Новогодняя коллекция</category>
+    </categories>
+    <offers>
+      <offer id="LS-NY-001" available="true">
+        <name>Салфетки Nordic Moose, 2шт</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-001.html</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-001/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-001/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-001/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-001/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-001/05.jpg</picture>
+        <description>Крупные силуэты лосей на сером жаккардовом льне, спокойная палитра и широкая светлая рамка. Северные мотивы здесь выглядят сдержанно и графично — такой текстиль подходит и для зимнего завтрака, и для праздничного стола.
+
+Лицевая ткань — жаккардовый лён с лёгким сатиновым блеском. Плотная оборотная сторона цвета «соль и перец» помогает салфеткам сохранять форму. Аккуратная прямоугольная геометрия и обработанные углы завершают композицию.
+
+Характеристики:
+- Размер одной салфетки: 40 × 32 см
+- Комплект: 2 шт.
+- Лицевая ткань: жаккардовый лён, 100%
+- Оборотная ткань: полиэстер, 100%
+- Форма: прямоугольная
+- Особенности: двусторонний рисунок жаккарда, лёгкий сатиновый блеск, плотная оборотная сторона
+
+Изготовлены в Lara Studio.</description>
+        <param name="Артикул">LS-NY-001</param>
+      </offer>
+      <offer id="LS-NY-002" available="true">
+        <name>Салфетки Nordic Moose Red, 2шт</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-002.html</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-002/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-002/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-002/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-002/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-002/05.jpg</picture>
+        <description>Знакомые силуэты северных лосей получили неожиданную компанию: узорную чёрно-белую полосу и насыщенный красный цвет.
+Лицевая сторона собрана из трёх разных тканей. Серый льняной жаккард с лосями соседствует с декоративным узором и однотонной красной полосой. Разная фактура материалов делает композицию особенно выразительной.
+Nordic Moose Red подойдут для праздничной сервировки, особенно в сочетании с белой керамикой, прозрачным стеклом и металлическими приборами.
+Характеристики:
+- Размер одной салфетки: 42 × 30 см
+- Комплект: 2 шт.
+- Лицевая сторона: жаккардовый лён, жаккардовая парча и саржа
+- Оборотная сторона: полиэстер и жатый хлопок
+- Конструкция: композиция из трёх тканей
+- Форма: прямоугольная
+Изготовлены в Lara Studio.</description>
+        <param name="Артикул">LS-NY-002</param>
+      </offer>
+      <offer id="LS-NY-004" available="true">
+        <name>Салфетки Winter Village, 2 шт.</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-004.html</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-004/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-004/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-004/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-004/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-004/05.jpg</picture>
+        <description>Заснеженная деревня, высокая башня с часами, ели под снегом и тёплый свет в окнах. Рисунок в приглушённых голубых оттенках напоминает иллюстрацию из старой рождественской книги.
+Зимний пейзаж занимает центральную часть салфетки. Широкая однотонная рамка с диагонально обработанными углами подчёркивает рисунок и придаёт изделию аккуратную геометрическую форму.
+В работе использована винтажная принтованная ткань. Winter Village — часть ресайкл-направления Lara Studio, в котором сохранившиеся материалы получают новую жизнь.
+Характеристики:
+- Комплект: 2 салфетки
+- Размер: 40х31 см
+- Лицевая ткань: хлопок, 100%
+- Оборотная ткань: полиэстер, 100%
+- Форма: прямоугольная
+- Особенность: винтажный принт, ресайкл-проект
+Точное повторение зависит от наличия исходной ткани.
+Изготовлены в Lara Studio.</description>
+        <param name="Артикул">LS-NY-004</param>
+      </offer>
+      <offer id="LS-NY-005" available="true">
+        <name>Салфетки Winter Village Patchwork I, 2 шт.</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-005.html</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-005/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-005/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-005/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-005/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-005/05.jpg</picture>
+        <description>Фрагмент заснеженной деревни соседствует с лоскутной композицией из узких вертикальных полос. Голубые узоры, мелкий горошек, цветочные орнаменты и спокойные бежевые оттенки соединены в едином полотне.
+Стёжка подчёркивает расположение полос и создаёт мягкую рельефную фактуру. Широкая светлая рамка объединяет зимнюю иллюстрацию и пэчворк.
+Салфетки изготовлены с использованием сохранившихся фрагментов хлопковых тканей. Это ресайкл-проект Lara Studio, в котором каждая комбинация материалов имеет собственный рисунок.
+Характеристики:
+- Комплект: 2 салфетки
+- Размер: 40х31
+- Лицевая ткань: хлопок, 100%
+- Оборотная ткань: полиэстер, 100%
+- Техника: пэчворк
+- Форма: прямоугольная
+- Особенности: лоскутная композиция, стёжка, ресайкл-проект
+Точное повторение ограничено количеством исходных тканей. Возможны вариации композиции.
+Изготовлены в Lara Studio.</description>
+        <param name="Артикул">LS-NY-005</param>
+      </offer>
+      <offer id="LS-NY-006" available="true">
+        <name>Салфетки Winter Village Patchwork II, 2 шт.</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-006.html</url>
+        <price>1500</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-006/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-006/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-006/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-006/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-006/05.jpg</picture>
+        <description>Зимний пейзаж с заснеженными домиками занимает большую часть композиции. Рядом — лоскутная полоса из тканей с мелкими орнаментами, звёздами, горошком и контрастными голубыми деталями.
+В этой версии Winter Village главная роль отведена самой иллюстрации, а пэчворк становится её декоративным продолжением. Широкая светлая рамка завершает прямоугольную форму.
+Для изготовления использованы фрагменты хлопковых тканей, в том числе винтажных. Каждая салфетка — часть ресайкл-направления Lara Studio.
+Характеристики:
+- Комплект: 2 салфетки
+- Размер: 40 на 31 см
+- Лицевая ткань: хлопок, 100%
+- Оборотная ткань: полиэстер, 100%
+- Техника: пэчворк
+- Форма: прямоугольная
+- Особенность: сочетание крупного зимнего сюжета с узкой лоскутной композицией
+Точное повторение зависит от наличия исходных тканей.
+Изготовлены в Lara Studio.</description>
+        <param name="Артикул">LS-NY-006</param>
+      </offer>
+      <offer id="LS-NY-027" available="false">
+        <name>Плед Nordic Moose Tartan</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-027.html</url>
+        <price>15900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-027/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-027/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-027/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-027/04.png</picture>
+        <description>Северный характер в выразительной лоскутной композиции. Крупные силуэты лосей на натуральном льне чередуются с красной клеткой, полосами и фрагментами хлопковых тканей.
+Nordic Moose Tartan объединяет несколько узнаваемых текстильных мотивов: скандинавские рисунки, традиционный тартан и геометрию пэчворка. Красные полосы задают композиции ритм, а серо-бежевый лён уравновешивает насыщенные цвета.
+Плед подходит для дивана, кресла или кровати. Его можно использовать как большое декоративное покрывало.
+В представленном исполнении оборотная сторона выполнена из мягкого велсофта. По согласованию возможен другой вариант оборотной ткани — хлопок или плюш.
+Характеристики:
+- Базовый размер: 200 × 150 см
+- Лицевая сторона: сочетание натурального льна (100%) с хлопковыми тканями
+- Оборотная сторона представленного образца: велсофт
+- Возможные варианты оборота: хлопок или плюш
+- Кайма: хлопок
+- Наполнитель: 150–200 г/м²
+- Другие размеры — по согласованию
+Уход: бережная ручная стирка при температуре до 30 °C с мягким моющим средством. Сушить в расправленном виде. Гладить при средней температуре, без пара.
+
+Изготовлен в Lara Studio.</description>
+        <param name="Артикул">LS-NY-027</param>
+      </offer>
+      <offer id="LS-NY-028" available="true">
+        <name>Одеяло Blue Stag</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-028.html</url>
+        <price>14900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-028/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-028/02.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-028/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-028/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-028/05.jpg</picture>
+        <description>Синий олень с ветвистыми рогами — главный герой этого авторского квилта. Его силуэт повторяется на светлых текстильных блоках среди геометрических узоров, маленьких звёзд, полос и квадратов разных оттенков голубого.
+Изображения оленя нанесены вручную трафаретной печатью с использованием текстильных красок, градиента омбре и металлизированных эффектов. Каждый рисунок становится частью общей лоскутной композиции.
+В полотне чередуются блоки из квадратов размером 8 × 8 см и 16 × 16 см. Машинная стёжка проходит по швам блоков, а ручная подчёркивает элементы печатного рисунка.
+Оборотная сторона выполнена из хлопка с узором пейсли. Завершает изделие хлопковая кайма.
+Характеристики:
+- Размер: 170 × 140 см
+- Лицевая сторона: лоскутная композиция с ручной трафаретной печатью
+- Оборотная сторона: хлопок с узором пейсли
+- Кайма: хлопок
+- Наполнитель: силиконизированный холлофайбер, 200 г/м²
+- Размеры лоскутных квадратов: 8 × 8 и 16 × 16 см
+- Стёжка: ручная по рисунку и машинная «в шов»
+Уход:  бережная ручная стирка при температуре до 30 °C с мягким моющим средством. Сушить в расправленном виде. Гладить при средней температуре, без пара.
+
+Изготовлено в Lara Studio.</description>
+        <param name="Артикул">LS-NY-028</param>
+      </offer>
+      <offer id="LS-0034" available="true">
+        <name>Одеяло Northern Summer</name>
+        <url>https://larastudio-textile.github.io/item-ls-0034.html</url>
+        <price>9900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-0034/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0034/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0034/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0034/04.jpg</picture>
+        <description>Приглушённый голубой, песочный, серо-бежевый и немного тёплого терракотового. Northern Summer напоминает северное лето с его прохладным светом, спокойными красками и мягкими переходами оттенков.
+Лицевая сторона собрана из хлопковых лоскутов разных размеров и рисунков: полосы, клетки, мелкие орнаменты и однотонные ткани. Квадраты 8 × 8 и 16 × 16 см образуют свободную геометрическую композицию.
+Машинная стёжка выполнена по швам блоков, сохраняя чистый рисунок пэчворка и мягкий объём полотна.
+На оборотной стороне — хлопковая ткань с принтом и эффектом омбре. Завершает изделие хлопковая кайма.
+Northern Summer можно использовать как одеяло или как декоративный текстиль для спальни и детской комнаты.
+Характеристики:
+- Размер: 160 × 115 см
+- Лицевая сторона: хлопковый пэчворк
+- Оборотная сторона:  хлопковая ткань с принтом и эффектом омбре. 
+- Кайма: хлопок
+- Наполнитель: силиконизированный холлофайбер, 200 г/м²
+- Размеры лоскутных квадратов: 8 × 8 и 16 × 16 см
+- Стёжка: машинная «в шов»
+Уход: бережная ручная стирка при температуре до 30 °C с мягким моющим средством. Сушить в расправленном виде. Гладить при средней температуре, без пара.
+
+Изготовлено в Lara Studio.</description>
+        <param name="Артикул">LS-0034</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
