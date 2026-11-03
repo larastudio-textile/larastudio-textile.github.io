@@ -1,0 +1,36 @@
+name: Build VK uncropped square feed
+
+on:
+  push:
+    paths:
+      - ".github/workflows/build-vk-square-feed.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out catalog
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install Pillow
+        run: python -m pip install --disable-pip-version-check Pillow
+      - name: Generate square photographs and VK feed
+        run: python scripts/build_vk_square_feed.py
+      - name: Commit generated feed and image copies
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/vk-square/ feeds/vk-new-8-square.yml
+          if ! git diff --cached --quiet; then
+            git commit -m "Add VK-safe squared images and revised 8-product feed"
+            git push
+          else
+            echo "No changed generated files"
+          fi
