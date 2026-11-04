@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - ".github/workflows/build-vk-square-feed.yml"
+      - "feeds/vk-new-8-2026-11-03.yml"
+      - "scripts/build_vk_square_feed.py"
   workflow_dispatch:
 
 permissions:
