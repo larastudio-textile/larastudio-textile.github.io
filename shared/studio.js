@@ -85,3 +85,46 @@
   document.addEventListener('visibilitychange',updateMotion);
   if (scene) new IntersectionObserver(entries=>{sceneVisible=entries[0].isIntersecting;updateMotion();},{threshold:.03}).observe(scene);
 })();
+
+
+/* Lara Studio: Yandex Metrika shopper events (product SKUs only). */
+(() => {
+  "use strict";
+  const counterId = 114109222;
+  const product = document.querySelector(".product-view[data-sku]");
+  const sku = product?.dataset.sku || "";
+  function goal(name, params = {}) {
+    if (typeof window.ym !== "function") return;
+    window.ym(counterId, "reachGoal", name, sku ? {sku, ...params} : params);
+  }
+
+  if (product) goal("product_view");
+
+  document.addEventListener("click", (event) => {
+    if (!(event.target instanceof Element)) return;
+    const element = event.target.closest("a, button");
+    if (!element) return;
+
+    if (element.matches(".order-button")) {
+      goal("order_click");
+    } else if (element.matches("a[href*='vk.ru/'],a[href*='vk.com/']")) {
+      goal("contact_click");
+    } else if (element.matches(".gallery-thumb")) {
+      if (element.dataset.video) {
+        goal("video_selected");
+      } else {
+        const gallery = element.closest("[data-gallery]");
+        const index = gallery ? [...gallery.querySelectorAll(".gallery-thumb")].indexOf(element) + 1 : 0;
+        goal("photo_change", {photo: index});
+      }
+    } else if (element.matches(".main-photo")) {
+      goal("photo_zoom");
+    } else if (element.matches(".zone, .mobile-categories a, .site-header nav a")) {
+      goal("category_open", {section: element.dataset.route || element.getAttribute("href") || ""});
+    }
+  }, true);
+
+  document.querySelectorAll("video.gallery-video").forEach((video) => {
+    video.addEventListener("play", () => goal("video_play"));
+  });
+})();
