@@ -86,8 +86,9 @@ def main():
         "mc.yandex.ru/metrika/tag.js?id=114109222" in file.read_text(encoding="utf-8")
         for file in ROOT.glob("*.html")
     )
-    if total != 47:
-        raise RuntimeError(f"Expected Metrika on 47 HTML pages, found {total}")
+    expected = len(list(ROOT.glob("*.html")))
+    if not expected or total != expected:
+        raise RuntimeError(f"Expected Metrika on {expected} HTML pages, found {total}")
     print(f"Installed on {total} pages; newly changed {count} pages")
 
 if __name__ == "__main__":
