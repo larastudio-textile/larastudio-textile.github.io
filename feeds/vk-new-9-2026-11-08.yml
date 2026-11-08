@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-11-08 23:30">
+  <shop>
+    <name>Lara Studio | Дизайнерский текстиль</name>
+    <company>Lara Studio</company>
+    <url>https://larastudio-textile.github.io/</url>
+    <currencies><currency id="RUR" rate="1"/></currencies>
+    <categories><category id="1">Авторские квилты</category><category id="5">Новогодняя коллекция</category></categories>
+    <offers>
+      <offer id="LS-0035" available="true">
+        <name>Одеяло Candy Mosaic</name>
+        <url>https://larastudio-textile.github.io/item-ls-0035.html</url>
+        <price>9900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-0035/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0035/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0035/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0035/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0035/05.jpg</picture>
+        <description>В Candy Mosaic соединились десятки оттенков и рисунков: пудровый розовый, голубой, сиреневый, мятный, песочный, небольшие цветочные мотивы, полоски и горошек.
+
+Лоскутная композиция построена на сочетании мелких геометрических блоков. Разнообразие тканей создаёт живой рисунок, который интересно рассматривать вблизи. Диагональная машинная стёжка подчёркивает геометрию полотна и придаёт одеялу мягкий объём.
+
+Оборотная сторона выполнена из хлопка с разноцветными сердечками. Край обработан хлопковой каймой.
+
+Candy Mosaic подойдёт для детской комнаты, небольшого дивана или кресла. Его можно использовать как одеяло и как декоративное покрывало.
+
+Характеристики:
+- Лицевая ткань: Хлопок. Комбинация блоков из квадратов 5х5 и квадратов 7,5х7,5. Машинная стежка по диагональным линиям.
+- Оборот / кайма: Бэк: хлопок с рисунком сердечко. Кайма: хлопок.
+- Наполнитель: Силиконизированный холлофайбер 200 гр/кв.м.
+- Размер, см: 130 х 100
+
+Уход: Бережная ручная стирка при температуре воды не выше 30 град. с не агрессивным моющим средством. Сушить в расправленном состоянии. Гладить при средних температурах, без пара.</description>
+        <param name="Артикул">LS-0035</param>
+      </offer>
+      <offer id="LS-NY-007" available="true">
+        <name>Гирлянда Silver Brocade</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-007.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-007/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-007/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-007/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-007/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-007/05.jpg</picture>
+        <description>Семь текстильных ёлочек из серебристо-серого жаккарда с золотистым орнаментом. Рисунок ткани особенно красиво раскрывается при боковом освещении.
+
+Кроны выполнены из полиэстерового жаккарда, стволы — из плотного хлопка. Ёлочки соединены джутовым шнуром с деревянными бусинами.
+
+В Lara Studio есть интерьерный заяц Тео из той же ткани — изделия можно сочетать в праздничном оформлении дома.
+
+Характеристики:
+- Лицевая ткань: Крона: жаккард полиэстер  / ствол: плотный хлопок
+- Оборот / кайма: Джутовый шнур + деревянные бусины
+- Конструкция / форма: Елочки
+- Размер, см: 128 см / 7 шт
+- Комплектация / фурнитура: Джутовый шнур + деревянные бусины
+- Особенности: Все подвесы одинаковые. Цвет серебристо серый с золотым узором. Есть комплектный по этой ткани заяц Тео.</description>
+        <param name="Артикул">LS-NY-007</param>
+      </offer>
+      <offer id="LS-NY-008" available="true">
+        <name>Гирлянда Winter Tweed</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-008.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-008/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-008/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-008/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-008/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-008/05.jpg</picture>
+        <description>Восемь небольших ёлочек из светлого шерстяного твида. Сдержанная серо-бежевая гамма и меланжевая фактура подходят для спокойного зимнего интерьера.
+
+Стволы выполнены из искусственной замши. Для изготовления использован текстиль повторного применения. Ёлочки размещены на джутовом шнуре с деревянными бусинами.
+
+Характеристики:
+- Лицевая ткань: Крона: твид шерстяной меланж / ствол: искусственная замша
+- Оборот / кайма: Джутовый шнур + деревянные бусины
+- Конструкция / форма: Елочки
+- Размер, см: 142 см / 8 шт
+- Комплектация / фурнитура: Джутовый шнур + деревянные бусины
+- Особенности: Все подвесы одинаковые. Цвет светлый  серо-бежевый. Ресайкл</description>
+        <param name="Артикул">LS-NY-008</param>
+      </offer>
+      <offer id="LS-NY-009" available="true">
+        <name>Гирлянда Evergreen Sparkle</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-009.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-009/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-009/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-009/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-009/04.jpg</picture>
+        <description>Семь зелёных текстильных ёлочек с деликатным мерцанием. Люрексовая нить в составе ткани отражает свет и подчёркивает её фактуру.
+
+Кроны выполнены из смесовой ткани, стволы — из плотного хлопка. Джутовый шнур дополнен деревянными бусинами. Использован текстиль повторного применения.
+
+Характеристики:
+- Лицевая ткань: Крона: смесовая ткань / ствол: хлопок плотный
+- Оборот / кайма: Джутовый шнур + деревянные бусины
+- Конструкция / форма: Елочки
+- Размер, см: 128 см / 7 шт
+- Комплектация / фурнитура: Джутовый шнур + деревянные бусины
+- Особенности: Все подвесы одинаковые. Ткань с зеленой люрексовой нитью в составе. Ресайкл</description>
+        <param name="Артикул">LS-NY-009</param>
+      </offer>
+      <offer id="LS-NY-010" available="true">
+        <name>Гирлянда Mint Frost</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-010.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-010/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-010/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-010/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-010/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-010/05.jpg</picture>
+        <description>Мятный, бирюзовый и светлый голубовато-зелёный оттенки объединены в гирлянде из семи текстильных ёлочек.
+
+Три варианта подвесов отличаются насыщенностью цвета и фактурой. В работе использованы вельвет, микровельвет и бархат на хлопковой основе. Стволы выполнены из вельвета.
+
+Ёлочки соединены джутовым шнуром с деревянными бусинами. В изготовлении использован текстиль повторного применения.
+
+Характеристики:
+- Лицевая ткань: Крона: вельвет (микро и мкро), бархат на хлопковой основе / ствол: вельвет
+- Оборот / кайма: Джутовый шнур + деревянные бусины
+- Конструкция / форма: Елочки
+- Размер, см: 132 см / 7 шт
+- Комплектация / фурнитура: Джутовый шнур + деревянные бусины
+- Особенности: Подвесы трех видов. Одна гамма разной насыщенности цвета. Разная текстура.  Ресайкл</description>
+        <param name="Артикул">LS-NY-010</param>
+      </offer>
+      <offer id="LS-NY-011" available="true">
+        <name>Гирлянда Moss &amp; Peacock</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-011.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-011/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-011/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-011/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-011/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-011/05.jpg</picture>
+        <description>Тёмно-зелёный оттенок лесного мха и глубокий сине-зелёный цвет павлиньего пера — два главных цвета этой гирлянды.
+
+Семь ёлочек выполнены в двух вариантах из бархата и шёлка. Стволы — из искусственной замши. Материалы повторного применения получили новую жизнь в праздничном текстиле.
+
+Джутовый шнур дополнен деревянными бусинами.
+
+Характеристики:
+- Лицевая ткань: Крона: бархат  + шелк  / ствол: искусственная замша
+- Оборот / кайма: Джутовый шнур + деревянные бусины
+- Конструкция / форма: Елочки
+- Размер, см: 133 см / 7 шт
+- Комплектация / фурнитура: Джутовый шнур + деревянные бусины
+- Особенности: Подвесы двух видов. Цвет темного мха  + павлиновый сине-зеленый. Ресайкл.</description>
+        <param name="Артикул">LS-NY-011</param>
+      </offer>
+      <offer id="LS-NY-012" available="true">
+        <name>Гирлянда Christmas Tartan</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-012.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-012/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-012/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-012/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-012/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-012/05.jpg</picture>
+        <description>Семь разных ёлочек в традиционной рождественской палитре: красный, зелёный, клетчатые ткани и полоски.
+
+Кроны выполнены из хлопка и вельвета, стволы — из хлопка. Подвесы соединены джутовым шнуром с деревянными бусинами.
+
+Ткани гирлянды перекликаются с материалами адвент-календарей Lara Studio и позволяют оформить дом в единой гамме.
+
+Характеристики:
+- Лицевая ткань: Крона: хлопок, вельвет / ствол: хлопок
+- Оборот / кайма: Джутовый шнур + деревянные бусины
+- Конструкция / форма: Елочки
+- Размер, см: 138 см / 7 шт
+- Комплектация / фурнитура: Джутовый шнур + деревянные бусины
+- Особенности: Подвесы все разные. По тканям мэтчится с адвент-календарем.</description>
+        <param name="Артикул">LS-NY-012</param>
+      </offer>
+      <offer id="LS-NY-013" available="true">
+        <name>Гирлянда Holiday Graphics</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-013.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-013/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-013/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-013/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-013/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-013/05.jpg</picture>
+        <description>Семь текстильных ёлочек с разными графичными рисунками: клетка, полоски, звёзды и контрастные геометрические мотивы. В композиции чередуются красный, зелёный и белый.
+
+Кроны сшиты из принтованного хлопка, стволы — из вельвета. Джутовый шнур дополнен деревянными бусинами.
+
+Подбор тканей перекликается с адвент-календарями Lara Studio.
+
+Характеристики:
+- Лицевая ткань: Крона: хлопок / ствол: вельвет
+- Оборот / кайма: Джутовый шнур + деревянные бусины
+- Конструкция / форма: Елочки
+- Размер, см: 120 см / 7 шт
+- Комплектация / фурнитура: Джутовый шнур + деревянные бусины
+- Особенности: Подвесы все разные. По тканям мэтчится с адвент-календарем.</description>
+        <param name="Артикул">LS-NY-013</param>
+      </offer>
+      <offer id="LS-NY-014" available="true">
+        <name>Гирлянда Christmas Prints</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-014.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-014/01.png</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-014/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-014/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-014/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-014/05.jpg</picture>
+        <description>Семь хлопковых ёлочек, каждая со своим рисунком: звёзды, рождественская клетка, зелёный горошек и праздничные орнаменты.
+
+Сочетание красного и зелёного создаёт выразительную композицию. И кроны, и стволы выполнены из хлопка. Ёлочки соединены джутовым шнуром с деревянными бусинами.
+
+Ткани сочетаются с текстилем адвент-календарей Lara Studio.
+
+Характеристики:
+- Лицевая ткань: Крона: хлопок / ствол: хлопок
+- Оборот / кайма: Джутовый шнур + деревянные бусины
+- Конструкция / форма: Елочки
+- Размер, см: 130 см / 7 шт
+- Комплектация / фурнитура: Джутовый шнур + деревянные бусины
+- Особенности: Подвесы все разные. По тканям мэтчится с адвент-календарем.</description>
+        <param name="Артикул">LS-NY-014</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
