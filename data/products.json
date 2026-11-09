@@ -1248,6 +1248,7 @@
       }
     ],
     "photos": [
+      "images/LS-NY-001/cover-2026-11-09.jpg",
       "images/LS-NY-001/01.jpg",
       "images/LS-NY-001/02.jpg",
       "images/LS-NY-001/03.jpg",
@@ -1262,7 +1263,7 @@
     "vk_id": null,
     "vk_url": null,
     "photo_order_approved": true,
-    "main_photo": "images/LS-NY-001/01.jpg",
+    "main_photo": "images/LS-NY-001/cover-2026-11-09.jpg",
     "package": null,
     "stock": 2
   },
@@ -1296,6 +1297,7 @@
       }
     ],
     "photos": [
+      "images/LS-NY-002/cover-2026-11-09.jpg",
       "images/LS-NY-002/01.jpg",
       "images/LS-NY-002/02.jpg",
       "images/LS-NY-002/03.jpg",
@@ -1310,7 +1312,7 @@
     "vk_id": null,
     "vk_url": null,
     "photo_order_approved": true,
-    "main_photo": "images/LS-NY-002/01.jpg",
+    "main_photo": "images/LS-NY-002/cover-2026-11-09.jpg",
     "package": null,
     "stock": 2
   },
@@ -1344,6 +1346,7 @@
       }
     ],
     "photos": [
+      "images/LS-NY-004/cover-2026-11-09.jpg",
       "images/LS-NY-004/01.jpg",
       "images/LS-NY-004/02.jpg",
       "images/LS-NY-004/03.jpg",
@@ -1358,7 +1361,7 @@
     "vk_id": null,
     "vk_url": null,
     "photo_order_approved": true,
-    "main_photo": "images/LS-NY-004/01.jpg",
+    "main_photo": "images/LS-NY-004/cover-2026-11-09.jpg",
     "package": null,
     "stock": 2
   },
@@ -1392,6 +1395,7 @@
       }
     ],
     "photos": [
+      "images/LS-NY-005/cover-2026-11-09.jpg",
       "images/LS-NY-005/01.jpg",
       "images/LS-NY-005/02.jpg",
       "images/LS-NY-005/03.jpg",
@@ -1406,7 +1410,7 @@
     "vk_id": null,
     "vk_url": null,
     "photo_order_approved": true,
-    "main_photo": "images/LS-NY-005/01.jpg",
+    "main_photo": "images/LS-NY-005/cover-2026-11-09.jpg",
     "package": null,
     "stock": 2
   },
@@ -1440,6 +1444,7 @@
       }
     ],
     "photos": [
+      "images/LS-NY-006/cover-2026-11-09.jpg",
       "images/LS-NY-006/01.jpg",
       "images/LS-NY-006/02.jpg",
       "images/LS-NY-006/03.jpg",
@@ -1454,7 +1459,7 @@
     "vk_id": null,
     "vk_url": null,
     "photo_order_approved": true,
-    "main_photo": "images/LS-NY-006/01.jpg",
+    "main_photo": "images/LS-NY-006/cover-2026-11-09.jpg",
     "package": null,
     "stock": 2
   },
