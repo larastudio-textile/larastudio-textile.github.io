@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-11-15 15:57">
+  <shop>
+    <name>Lara Studio | Дизайнерский текстиль</name>
+    <company>Lara Studio</company>
+    <url>https://larastudio-textile.github.io/</url>
+    <currencies><currency id="RUR" rate="1"/></currencies>
+    <categories><category id="1">Авторские квилты</category><category id="5">Новогодняя коллекция</category></categories>
+    <offers>
+      <offer id="LS-NY-015" available="true">
+        <name>Гирлянда Happy New Year</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-015.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-015/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-015/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-015/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-015/04.jpg</picture>
+        <description>Четырнадцать хлопковых флажков складываются в поздравление HAPPY NEW YEAR. Лицевая сторона напоминает неокрашенный лён по цвету и фактуре. На обороте — красно-чёрная клетка с белыми силуэтами ёлок.
+
+Флажки закреплены на хлопковой ленте в клетку. На концах ленты — петли с пуговицами. Гирлянду можно повесить на стену, над дверным проёмом или вдоль полки.
+
+Длина — 165 см. В гирлянде 14 флажков.</description>
+        <param name="Артикул">LS-NY-015</param>
+      </offer>
+      <offer id="LS-NY-016" available="true">
+        <name>Гирлянда Christmas Postcards</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-016.html</url>
+        <price>1900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-016/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-016/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-016/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-016/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-016/05.jpg</picture>
+        <description>На флажках Christmas Postcards — маленькие новогодние сюжеты, похожие на иллюстрации к праздничным открыткам. Лицевая сторона выполнена из хлопка с фактурой неокрашенного льна. На сливочно-белом хлопковом обороте — мелкие красные и зелёные ёлочки.
+
+Четырнадцать флажков собраны на молочной киперной ленте с петлями на пуговицах. Гирлянда подходит для стены, дверного проёма или полки.</description>
+        <param name="Артикул">LS-NY-016</param>
+      </offer>
+      <offer id="LS-0038" available="true">
+        <name>Плед Merry Sheep</name>
+        <url>https://larastudio-textile.github.io/item-ls-0038.html</url>
+        <price>7900</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-0038/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0038/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0038/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0038/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-0038/05.jpg</picture>
+        <description>Овечки в разноцветных свитерах идут по краю пледа Merry Sheep. В центре — цельное хлопковое полотно с яркими полосами. Ручная стёжка вдоль их границ подчёркивает рельеф ткани. Красные вставки в форме стрелок по краю тоже простёганы вручную.
+
+Оборот — белый хлопок с чёрными графическими линиями. Край обрамлён чёрной хлопковой окантовкой. Внутри — силиконизированный холлофайбер плотностью 200 г/м².
+
+Размер — 142 × 116 см.</description>
+        <param name="Артикул">LS-0038</param>
+      </offer>
+      <offer id="LS-NY-030" available="true">
+        <name>Новогодние подвесы — ёлочка, звезда, сердце</name>
+        <url>https://larastudio-textile.github.io/item-ls-ny-030.html</url>
+        <price>350</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <vendor>Lara Studio</vendor>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-030/01.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-030/02.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-030/03.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-030/04.jpg</picture>
+        <picture>https://larastudio-textile.github.io/images/LS-NY-030/05.jpg</picture>
+        <description>Текстильные подвесы Lara Studio можно повесить на ёлку, украсить ими ветку в вазе или привязать к ленте на подарочной коробке. В ассортименте три формы и несколько расцветок.
+
+Ёлочка — 16 × 11 см, длина петли 17 см. Звезда — 11 × 11 см, петля 15 см. Сердце — 9 × 10 см, петля 11 см. Размеры указаны в порядке «высота × ширина».
+
+В зависимости от варианта используются хлопок, твид, лён или бархат. Наполнитель — холлофайбер или синтепух. Петля — из замшевого или джутового шнура.</description>
+        <param name="Артикул">LS-NY-030</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
